@@ -98,7 +98,7 @@ button{
    Media Query
 -------------- */
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 575px) {
    main{
       flex-direction: column;
       /* justify-content: center; */
