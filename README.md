@@ -21,4 +21,4 @@ This is a solution to the [Product preview card component challenge on Frontend 
 Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
 
 - Website - Naimur Rahman (https://www.naimurrahman.com)
-- Frontend Mentor - @NaimurRahman3954(https://www.frontendmentor.io/profile/NaimurRahman3954)
+- Frontend Mentor - @NaimurRahman3954 (https://www.frontendmentor.io/profile/NaimurRahman3954)
